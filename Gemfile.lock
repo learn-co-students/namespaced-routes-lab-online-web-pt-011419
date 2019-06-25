@@ -193,7 +193,7 @@ DEPENDENCIES
   capybara
   jbuilder (~> 2.0)
   pry
-  rails (~> 5.0.7.0)
+  rails
   rspec-rails
   sass-rails (~> 5.0)
   sassc
@@ -204,4 +204,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   2.0.1
+   2.0.2
